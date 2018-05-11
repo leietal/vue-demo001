@@ -1,6 +1,6 @@
 # vue_demo001
 
-> A Vue.js project
+> 一个可拖拽的Demo
 
 ## Build Setup
 
